@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\bin\Debug\Ex08_Class_thisConstructor.exe.config
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\bin\Debug\Ex08_Class_thisConstructor.exe
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\bin\Debug\Ex08_Class_thisConstructor.pdb
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\obj\Debug\Ex08_Class_thisConstructor.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\obj\Debug\Ex08_Class_thisConstructor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\obj\Debug\Ex08_Class_thisConstructor.exe
+C:\Users\user\source\repos\C#class\Ex08_Class_thisConstructor\Ex08_Class_thisConstructor\obj\Debug\Ex08_Class_thisConstructor.pdb
