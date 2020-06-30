@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\C#class\Ex11_IsAs\Ex11_IsAs\bin\Debug\Ex11_IsAs.exe.config
+C:\Users\user\source\repos\C#class\Ex11_IsAs\Ex11_IsAs\bin\Debug\Ex11_IsAs.exe
+C:\Users\user\source\repos\C#class\Ex11_IsAs\Ex11_IsAs\bin\Debug\Ex11_IsAs.pdb
+C:\Users\user\source\repos\C#class\Ex11_IsAs\Ex11_IsAs\obj\Debug\Ex11_IsAs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#class\Ex11_IsAs\Ex11_IsAs\obj\Debug\Ex11_IsAs.exe
+C:\Users\user\source\repos\C#class\Ex11_IsAs\Ex11_IsAs\obj\Debug\Ex11_IsAs.pdb
