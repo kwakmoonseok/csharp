@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\bin\Debug\Ex12_Class_IsAs.exe.config
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\bin\Debug\Ex12_Class_IsAs.exe
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\bin\Debug\Ex12_Class_IsAs.pdb
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.exe
+C:\Users\user\source\repos\C#class\Ex12_Class_IsAs\Ex12_Class_IsAs\obj\Debug\Ex12_Class_IsAs.pdb
