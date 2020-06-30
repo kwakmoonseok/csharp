@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\C#class\Ex10_Class_AccessModifier\Ex10_Class_AccessModifier\bin\Debug\Ex10_Class_AccessModifier.exe.config
+C:\Users\user\source\repos\C#class\Ex10_Class_AccessModifier\Ex10_Class_AccessModifier\bin\Debug\Ex10_Class_AccessModifier.exe
+C:\Users\user\source\repos\C#class\Ex10_Class_AccessModifier\Ex10_Class_AccessModifier\bin\Debug\Ex10_Class_AccessModifier.pdb
+C:\Users\user\source\repos\C#class\Ex10_Class_AccessModifier\Ex10_Class_AccessModifier\obj\Debug\Ex10_Class_AccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#class\Ex10_Class_AccessModifier\Ex10_Class_AccessModifier\obj\Debug\Ex10_Class_AccessModifier.exe
+C:\Users\user\source\repos\C#class\Ex10_Class_AccessModifier\Ex10_Class_AccessModifier\obj\Debug\Ex10_Class_AccessModifier.pdb
