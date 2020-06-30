@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\C#class\Ex09_Class_AccessModifier\Ex09_Class_AccessModifier\obj\Debug\Ex09_Class_AccessModifier.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C#class\Ex09_Class_AccessModifier\Ex09_Class_AccessModifier\obj\Debug\Ex09_Class_AccessModifier.csproj.CoreCompileInputs.cache
